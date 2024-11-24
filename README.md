@@ -29,7 +29,7 @@
 
 ## 🛠️ 실습 환경
 
-- **개발 환경**: Visual Studio Code, IntelliJ
+- **개발 환경**: Visual Studio Code
 
 ---
 
